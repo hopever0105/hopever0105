@@ -13,20 +13,13 @@ GitHub profile README
 규칙을 세우고, 데이터로 검증합니다.
 
 
-
-!\[Univ](https://img.shields.io/badge/고려대학교-통계학과-8b0029)
-
-!\[Focus](https://img.shields.io/badge/Focus-Equity%20Research%20%26%20Quant-1f6feb)
-
-
-
 </div>
 
 \## 🧭 About
 
 \- 🎓 고려대학교 통계학과 심화전공 졸업
 
-\- 📈 약 5년간 KOSPI 중심 실전투자 (탑다운 접근, 매매 전 근거 기록, 사후 복기)
+\- 📈 약 5년간 KOSPI 및 크립토 실전투자 (탑다운 접근, 매매 전 근거 기록, 사후 복기)
 
 \- 🔍 종목·섹터·매크로를 잇는 Top-down 리서치와 통계적 검증
 
